@@ -15,17 +15,7 @@
 	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js">
 	</script>
 <!-- end bbinclude -->
-	<title>Contact Tucumcari RV Park  | Tucumcari, NM 88401</title>
-	<script type="text/javascript">
-		<!--
-		var unique_id = new Array();
-		var form_name = new Array();
-		var required = new Array();
-		var req_message = new Array();
-					//-->
-	</script>
-	<script type="text/javascript" src="/_assets/js/FormValidation.js">
-	</script>
+	<title>Contact Tucumcari RV Park | Tucumcari, NM 88401</title>
 </head>
 <body>
 <!-- #bbinclude "nav.incl" -->
@@ -78,12 +68,29 @@
 		<div class="col-md-12">
 			<hr>
 <!-- end bbinclude -->
-			<iframe src="http://www.homestead.com/~site/siteapps/contactusform.action?&amp;LIVE=true&amp;HSID=1761536942&amp;PARTNER_ID=1&amp;TO_ADDRESS=&amp;PAGE=Contact-Us&amp;EMAIL_OPT=appendboth&amp;LAYOUT=horiz&amp;COLOR=%238ac400&amp;LABEL_FONT=Helvetica&amp;LABEL_COLOR=%23ffffff&amp;BOLD=false&amp;ITALIC=false&amp;CAPTCHA=false" width="613" height="325" style='padding:0;margin:0;' scrolling='no' frameborder="0" style='background-repeat:no-repeat' ;></iframe>
-		</div>
-	</div>
-	</div>
+			<form name="contactus" method="POST" data-netlify="true">
+				<div class="form-group">
+					<label for="name">Your Name:
+					<input type="text" class="form-control" id="name" placeholder="Your name">
+					</label>
+				</div>
+				<div class="form-group">
+					<label for="email">Your Email:
+					<input type="email" class="form-control" id="email" placeholder="Your e-mail address">
+					</label>
+				</div>
+				<div class="form-group">
+					<label for="message">Message: <textarea class="form-control" id="message" placeholder="Your message"></textarea>
+					</label>
+				</div>
+				<div netlify-recaptcha>
+				</div>
+				<p>
+					<button type="submit" class="btn btn-default">Send</button>
+				</p>
+			</form>
 <!-- #bbinclude "footer.incl" -->
-	</div>
+		</div>
 	</div>
 </article>
 <hr>

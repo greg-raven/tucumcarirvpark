@@ -1,0 +1,9 @@
+body
+{
+	background-color: #5aa001;
+	color: white;
+}
+
+a { color: #FFFFFF; }
+a:visited { color: #0080ff; }
+h2 { text-transform: uppercase; }

@@ -1,1 +1,0 @@
-var addCopyright=!0,footerName="Blaze-in Saddles RV Park";addCopyright&&document.write(" by "+footerName+" &#169; 2017 ");

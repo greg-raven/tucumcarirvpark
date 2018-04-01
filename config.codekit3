@@ -9,36 +9,6 @@
 	],
 "creatorBuild": "26330",
 "files": {
-	"\/_assets\/css\/font_styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/_assets\/css\/font_styles.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_assets\/css\/font_styles_ns4.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/_assets\/css\/font_styles_ns4.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_assets\/css\/master_css.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/_assets\/css\/master_css.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/_assets\/css\/tucumcarirvpark.css": {
 		"aP": 1,
 		"bl": 0,
@@ -294,46 +264,6 @@
 		"oAP": "\/_assets\/img\/tp.gif",
 		"oF": 0,
 		"opt": 0
-		},
-	"\/_assets\/js\/footer.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_assets\/js\/footer.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_assets\/js\/FormValidation.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_assets\/js\/FormValidation.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_assets\/js\/jquery-1.4.2.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_assets\/js\/jquery-1.4.2.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_assets\/js\/Navigation1.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_assets\/js\/Navigation1.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/about-us.html": {
 		"cB": 0,

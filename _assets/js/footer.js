@@ -1,1 +1,1 @@
-var addCopyright=!0,footerName="Tucumcari RV Park";addCopyright&&document.write(" by "+footerName+" &#169; 2017 ");
+var addCopyright=!0,footerName="Blaze-in Saddles RV Park";addCopyright&&document.write(" by "+footerName+" &#169; 2017 ");

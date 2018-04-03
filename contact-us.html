@@ -10,8 +10,10 @@
 	<meta name="description" content="Blaze-in Saddles RV Park">
 	<meta name="keywords" content="Tucumcari, RV, camping, Blaze-In-Saddles">
 	<meta name="generator" content="BBEdit">
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js">
+	</script>
+	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js">
+	</script>
 <!-- end bbinclude -->
 	<title>Contact Blaze-in Saddles RV Park | Tucumcari, NM 88401</title>
 </head>
@@ -20,7 +22,8 @@
 <nav class="navbar navbar-default">
 	<div class="container-fluid">
 		<div class="navbar-header">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span style="color: black;">Menu</span></button> <!-- <a class="navbar-brand" href="/index.html">Blaze-in Saddles RV Park</a> -->
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span style="color: black;">Menu</span></button>
+<!-- <a class="navbar-brand" href="/index.html">Blaze-in Saddles RV Park</a> -->
 		</div>
 <!-- /.navbar-header -->
 		<div class="collapse navbar-collapse">
@@ -72,18 +75,20 @@
 <!-- end bbinclude -->
 			<form id="contactus" method="POST" data-netlify="true">
 				<div class="form-group">
-					<label for="name">Your Name:</label>
+					<label for="name">Your name</label>
 					<input type="text" class="form-control" id="name" placeholder="First and last">
 				</div>
 				<div class="form-group">
-					<label for="email">Your e-mail:</label>
+					<label for="email">Your e-mail</label>
 					<input type="email" class="form-control" id="email" placeholder="So we can respond">
 				</div>
 				<div class="form-group">
-					<label for="message">Message:</label> <textarea class="form-control" rows="7" id="message" placeholder="What can we do for you?"></textarea>
+					<label for="message">Message</label> <textarea class="form-control" rows="7" id="message" placeholder="What can we do for you?"></textarea>
 				</div>
+<!-- #bbpragma ignore_errors="on" -->
 				<div netlify-recaptcha>
 				</div>
+<!-- #bbpragma ignore_errors="off" -->
 				<div class="text-center">
 					<button type="submit" class="btn btn-default">Send</button>
 				</div>
@@ -111,5 +116,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 <!-- end bbinclude -->
+<script>
+	$(document).ready(function () {
+	    $("#contact").addClass("active");
+	});
+</script>
 </body>
 </html>

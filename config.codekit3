@@ -117,6 +117,16 @@
 		"opt": 0,
 		"q": 80
 		},
+	"\/_assets\/img\/facebook.jpg": {
+		"ft": 16384,
+		"iS": 1799,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/facebook.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"\/_assets\/img\/golfing.jpg": {
 		"ft": 16384,
 		"iS": 76795,
@@ -294,6 +304,16 @@
 		"oAP": "\/_assets\/img\/tp.gif",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/_assets\/img\/yelp.jpg": {
+		"ft": 16384,
+		"iS": 3328,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/yelp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
 		},
 	"\/about-us.html": {
 		"cB": 0,

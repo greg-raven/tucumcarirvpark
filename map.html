@@ -16,11 +16,6 @@
 	</script>
 <!-- end bbinclude -->
 	<title>Directions to Blaze-in-Saddle RV Park | Tucumcari, NM 88401</title>
-	<style type="text/css">		#map_canvas{
-		width:100%;
-		height:200px;
-		}
-	</style>
 </head>
 <body>
 <!-- #bbinclude "nav.incl" -->
@@ -81,20 +76,6 @@
 			<h2>
 				Area map
 			</h2>
-			<section class="container-map-park">
-				<div id="map_canvas" style="width:100%;height:200px;">
-				</div>
-				<div class=" map-park-details">
-					<div class="map-park-link">
-						<a class="link" href="https://www.google.com/maps/?q=35.17172,-103.69365" target="_blank" rel="external">View Larger Map</a>
-					</div>
-					<div class="map-park-latlong">
-						<span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"> Latitude: <span itemprop="latitude">35.17172</span><br>
-						Longitude: <span itemprop="longitude">-103.69365</span> </span> <span> <br>
-						Elevation: 4026' <small class="text-muted">(approx.)</small> </span>
-					</div>
-				</div>
-			</section>
 			<figure>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.3944523270757!2d-103.69583868475507!3d35.171719980316226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDEwJzE4LjIiTiAxMDPCsDQxJzM3LjEiVw!5e0!3m2!1sen!2sus!4v1522851367525&amp;z=4" width="800" height="600" style="border:0; width:100%;"></iframe>
 			</figure>
@@ -127,56 +108,5 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 <!-- end bbinclude -->
-<script>
-	$(document).ready(function () {
-	    $("#directions").addClass("active");
-	});
-</script>
-<script type="text/javascript">
-	function load_ivory_google_map() {
-	map_5ac4bfadd2811351125161_container = {"map":null,"coordinates":{},"bounds":{},"points":{},"sizes":{},"circles":{},"encoded_polylines":{},"ground_overlays":{},"polygons":{},"polylines":{},"rectangles":{},"info_windows":{},"marker_images":{},"marker_shapes":{},"markers":{},"marker_cluster":null,"kml_layers":{},"event_manager":{"dom_events":{},"dom_events_once":{},"events":{},"events_once":{}},"closable_info_windows":{},"functions":{"to_array":function (object) { var array = []; for (var key in object) { array.push(object[key]); } return array; }}};
-	map_5ac4bfadd2811351125161_container.coordinates.coordinate_5ac4bfadd26a1823112501 = coordinate_5ac4bfadd26a1823112501 = new google.maps.LatLng(35.17172, -103.69365, true);
-	map_5ac4bfadd2811351125161_container.coordinates.coordinate_5ac4bfadd292e080807213 = coordinate_5ac4bfadd292e080807213 = new google.maps.LatLng(35.17172, -103.69365, true);
-	map_5ac4bfadd2811351125161_container.coordinates.coordinate_5ac4bfadd2f60017792340 = coordinate_5ac4bfadd2f60017792340 = new google.maps.LatLng(34.5167, -106.2167, true);
-	map_5ac4bfadd2811351125161_container.map = map_5ac4bfadd2811351125161 = new google.maps.Map(document.getElementById("map_canvas"), {"mapTypeId":google.maps.MapTypeId.ROADMAP,"zoom":13,"disableDefaultUI":false,"disableDoubleClickZoom":false,"scrollwheel":false});
-	map_5ac4bfadd2811351125161.setCenter(coordinate_5ac4bfadd26a1823112501);
-	map_5ac4bfadd2811351125161_container.info_windows.info_window_5ac4bfadd2f2e512817165 = info_window_5ac4bfadd2f2e512817165 = new google.maps.InfoWindow({"content":"\n <h6><a href=\"https:\/\/www.rvparkreviews.com\/regions\/new-mexico\/tucumcari\/empty-saddle-rv-park-5178\" target=\"_blank\">Empty Saddle RV Park<\/a><\/h6>\n <p><a href=\"https:\/\/www.rvparkreviews.com\/regions\/new-mexico\/tucumcari\" target=\"_blank\">Tucumcari<\/a>, <a href=\"https:\/\/www.rvparkreviews.com\/regions\/new-mexico\" target=\"_blank\">New Mexico<\/a><\/p>\n <p><i class=\"rvpr-rating-star fa fa-star\"><\/i><i class=\"rvpr-rating-star fa fa-star\"><\/i><i class=\"rvpr-rating-star fa fa-star\"><\/i><i class=\"rvpr-rating-star fa fa-star-half-o\"><\/i><i class=\"rvpr-rating-star fa fa-star-o\"><\/i><\/p>"});
-	map_5ac4bfadd2811351125161_container.info_windows.info_window_5ac4bfadd3059825789466 = info_window_5ac4bfadd3059825789466 = new google.maps.InfoWindow({"content":"<h6>New Mexico<\/h6>"});
-	map_5ac4bfadd2811351125161_container.closable_info_windows.info_window_5ac4bfadd2f2e512817165 = info_window_5ac4bfadd2f2e512817165;
-	map_5ac4bfadd2811351125161_container.closable_info_windows.info_window_5ac4bfadd3059825789466 = info_window_5ac4bfadd3059825789466;
-	map_5ac4bfadd2811351125161_container.marker_images.marker_image_5ac4bfadd3013158210959 = marker_image_5ac4bfadd3013158210959 = new google.maps.MarkerImage("https://maps.gstatic.com/mapfiles/markers/marker.png", null, null, null, null);
-	map_5ac4bfadd2811351125161_container.markers.marker_5ac4bfadd2926210985074 = marker_5ac4bfadd2926210985074 = new google.maps.Marker({"position":coordinate_5ac4bfadd292e080807213,"map":map_5ac4bfadd2811351125161,"clickable":true,"flat":true});
-	map_5ac4bfadd2811351125161_container.markers.marker_5ac4bfadd2f6d934381028 = marker_5ac4bfadd2f6d934381028 = new google.maps.Marker({"position":coordinate_5ac4bfadd2f60017792340,"map":map_5ac4bfadd2811351125161,"icon":marker_image_5ac4bfadd3013158210959,"clickable":true,"flat":true});
-	map_5ac4bfadd2811351125161_container.event_manager.dom_events.event_5ac4bfadd4043131803006 = event_5ac4bfadd4043131803006 = google.maps.event.addDomListener(map_5ac4bfadd2811351125161, "idle", function(){ setTimeout(function() { if (map_5ac4bfadd2811351125161.getDiv() === undefined) { var xmlHttp = new XMLHttpRequest(); xmlHttp.open("GET", "https://www.rvparkreviews.com/ajaxmap/hit", true); xmlHttp.send(null); } },3000); }, false);
-	map_5ac4bfadd2811351125161_container.event_manager.events.marker_5ac4bfadd2926210985074_info_window_event = marker_5ac4bfadd2926210985074_info_window_event = google.maps.event.addListener(marker_5ac4bfadd2926210985074, "click", function () { for (var info_window in map_5ac4bfadd2811351125161_container.closable_info_windows) { map_5ac4bfadd2811351125161_container.closable_info_windows[info_window].close(); } info_window_5ac4bfadd2f2e512817165.open(map_5ac4bfadd2811351125161, marker_5ac4bfadd2926210985074);
-	});
-	map_5ac4bfadd2811351125161_container.event_manager.events.marker_5ac4bfadd2f6d934381028_info_window_event = marker_5ac4bfadd2f6d934381028_info_window_event = google.maps.event.addListener(marker_5ac4bfadd2f6d934381028, "click", function () { for (var info_window in map_5ac4bfadd2811351125161_container.closable_info_windows) { map_5ac4bfadd2811351125161_container.closable_info_windows[info_window].close(); } info_window_5ac4bfadd3059825789466.open(map_5ac4bfadd2811351125161, marker_5ac4bfadd2f6d934381028);
-	});
-	}
-</script>
-<script type="text/javascript">
-	function load_ivory_google_map_api () { google.load("maps", "3", {"other_params":"language=en&key=AIzaSyC7dELAlGhs-ur5aBTWXzGLXJDzi2L5kck","callback":load_ivory_google_map}); };
-</script>
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=load_ivory_google_map_api">
-</script>
-<script>
-	$(document).ready(function () {
-	    function gogetgoogle(data, term, func) {
-	        tfunc = func;
-
-	        tdata = data;
-
-	        var service = new google.maps.places.AutocompleteService();
-
-	        service.getPlacePredictions({
-	            input: term,
-	            types: ['(cities)'],
-	            componentRestrictions: {
-	                country: 'us' }
-	        }, addtogdata);
-	    }
-	    // }
-	});
-</script>
 </body>
 </html>

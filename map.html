@@ -10,17 +10,25 @@
 	<meta name="description" content="Blaze-in-Saddle RV Park">
 	<meta name="keywords" content="Tucumcari, RV, camping, tucumcarirvpark">
 	<meta name="generator" content="BBEdit">
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js">
+	</script>
+	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js">
+	</script>
 <!-- end bbinclude -->
 	<title>Directions to Blaze-in-Saddle RV Park | Tucumcari, NM 88401</title>
+	<style type="text/css">		#map_canvas{
+		width:100%;
+		height:200px;
+		}
+	</style>
 </head>
 <body>
 <!-- #bbinclude "nav.incl" -->
 <nav class="navbar navbar-default">
 	<div class="container-fluid">
 		<div class="navbar-header">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span style="color: black;">Menu</span></button> <!-- <a class="navbar-brand" href="/index.html">Blaze-in-Saddle RV Park</a> -->
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span style="color: black;">Menu</span></button>
+<!-- <a class="navbar-brand" href="/index.html">Blaze-in-Saddle RV Park</a> -->
 		</div>
 <!-- /.navbar-header -->
 		<div class="collapse navbar-collapse">
@@ -50,7 +58,7 @@
 	<div class="row">
 		<div class="col-md-7">
 			<p>
-				<b>Right next to the freeway in<br>
+				<b>2500 E. Rte. 66<br>
 				Tucumcari, NM 88401<br>
 				Telephone: 575-555-1212</b>
 			</p>
@@ -73,8 +81,22 @@
 			<h2>
 				Area map
 			</h2>
+			<section class="container-map-park">
+				<div id="map_canvas" style="width:100%;height:200px;">
+				</div>
+				<div class=" map-park-details">
+					<div class="map-park-link">
+						<a class="link" href="https://www.google.com/maps/?q=35.17172,-103.69365" target="_blank" rel="external">View Larger Map</a>
+					</div>
+					<div class="map-park-latlong">
+						<span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates"> Latitude: <span itemprop="latitude">35.17172</span><br>
+						Longitude: <span itemprop="longitude">-103.69365</span> </span> <span> <br>
+						Elevation: 4026' <small class="text-muted">(approx.)</small> </span>
+					</div>
+				</div>
+			</section>
 			<figure>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26092.815348560118!2d-103.73274116540766!3d35.16654748046737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x871b3865e7ec4185%3A0x31feda0f1b630f7c!2sTucumcari%2C+NM+88401!5e0!3m2!1sen!2sus!4v1522673109844" width="600" height="450" style="border:0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.3944523270757!2d-103.69583868475507!3d35.171719980316226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDEwJzE4LjIiTiAxMDPCsDQxJzM3LjEiVw!5e0!3m2!1sen!2sus!4v1522851367525&amp;z=4" width="800" height="600" style="border:0; width:100%;"></iframe>
 			</figure>
 			<h2>
 				Park layout
@@ -106,9 +128,243 @@
 <![endif]-->
 <!-- end bbinclude -->
 <script>
-    $(document).ready(function () {
-        $("#directions").addClass("active");
-    });
+	$(document).ready(function () {
+	    $("#directions").addClass("active");
+	});
+</script>
+<script type="text/javascript">
+	function load_ivory_google_map() {
+	map_5ac4bfadd2811351125161_container = {"map":null,"coordinates":{},"bounds":{},"points":{},"sizes":{},"circles":{},"encoded_polylines":{},"ground_overlays":{},"polygons":{},"polylines":{},"rectangles":{},"info_windows":{},"marker_images":{},"marker_shapes":{},"markers":{},"marker_cluster":null,"kml_layers":{},"event_manager":{"dom_events":{},"dom_events_once":{},"events":{},"events_once":{}},"closable_info_windows":{},"functions":{"to_array":function (object) { var array = []; for (var key in object) { array.push(object[key]); } return array; }}};
+	map_5ac4bfadd2811351125161_container.coordinates.coordinate_5ac4bfadd26a1823112501 = coordinate_5ac4bfadd26a1823112501 = new google.maps.LatLng(35.17172, -103.69365, true);
+	map_5ac4bfadd2811351125161_container.coordinates.coordinate_5ac4bfadd292e080807213 = coordinate_5ac4bfadd292e080807213 = new google.maps.LatLng(35.17172, -103.69365, true);
+	map_5ac4bfadd2811351125161_container.coordinates.coordinate_5ac4bfadd2f60017792340 = coordinate_5ac4bfadd2f60017792340 = new google.maps.LatLng(34.5167, -106.2167, true);
+	map_5ac4bfadd2811351125161_container.map = map_5ac4bfadd2811351125161 = new google.maps.Map(document.getElementById("map_canvas"), {"mapTypeId":google.maps.MapTypeId.ROADMAP,"zoom":13,"disableDefaultUI":false,"disableDoubleClickZoom":false,"scrollwheel":false});
+	map_5ac4bfadd2811351125161.setCenter(coordinate_5ac4bfadd26a1823112501);
+	map_5ac4bfadd2811351125161_container.info_windows.info_window_5ac4bfadd2f2e512817165 = info_window_5ac4bfadd2f2e512817165 = new google.maps.InfoWindow({"content":"\n <h6><a href=\"http:\/\/www.rvparkreviews.com\/regions\/new-mexico\/tucumcari\/empty-saddle-rv-park-5178\" target=\"_blank\">Empty Saddle RV Park<\/a><\/h6>\n <p><a href=\"http:\/\/www.rvparkreviews.com\/regions\/new-mexico\/tucumcari\" target=\"_blank\">Tucumcari<\/a>, <a href=\"http:\/\/www.rvparkreviews.com\/regions\/new-mexico\" target=\"_blank\">New Mexico<\/a><\/p>\n <p><i class=\"rvpr-rating-star fa fa-star\"><\/i><i class=\"rvpr-rating-star fa fa-star\"><\/i><i class=\"rvpr-rating-star fa fa-star\"><\/i><i class=\"rvpr-rating-star fa fa-star-half-o\"><\/i><i class=\"rvpr-rating-star fa fa-star-o\"><\/i><\/p>"});
+	map_5ac4bfadd2811351125161_container.info_windows.info_window_5ac4bfadd3059825789466 = info_window_5ac4bfadd3059825789466 = new google.maps.InfoWindow({"content":"<h6>New Mexico<\/h6>"});
+	map_5ac4bfadd2811351125161_container.closable_info_windows.info_window_5ac4bfadd2f2e512817165 = info_window_5ac4bfadd2f2e512817165;
+	map_5ac4bfadd2811351125161_container.closable_info_windows.info_window_5ac4bfadd3059825789466 = info_window_5ac4bfadd3059825789466;
+	map_5ac4bfadd2811351125161_container.marker_images.marker_image_5ac4bfadd3013158210959 = marker_image_5ac4bfadd3013158210959 = new google.maps.MarkerImage("http://maps.gstatic.com/mapfiles/markers/marker.png", null, null, null, null);
+	map_5ac4bfadd2811351125161_container.markers.marker_5ac4bfadd2926210985074 = marker_5ac4bfadd2926210985074 = new google.maps.Marker({"position":coordinate_5ac4bfadd292e080807213,"map":map_5ac4bfadd2811351125161,"clickable":true,"flat":true});
+	map_5ac4bfadd2811351125161_container.markers.marker_5ac4bfadd2f6d934381028 = marker_5ac4bfadd2f6d934381028 = new google.maps.Marker({"position":coordinate_5ac4bfadd2f60017792340,"map":map_5ac4bfadd2811351125161,"icon":marker_image_5ac4bfadd3013158210959,"clickable":true,"flat":true});
+	map_5ac4bfadd2811351125161_container.event_manager.dom_events.event_5ac4bfadd4043131803006 = event_5ac4bfadd4043131803006 = google.maps.event.addDomListener(map_5ac4bfadd2811351125161, "idle", function(){ setTimeout(function() { if (map_5ac4bfadd2811351125161.getDiv() === undefined) { var xmlHttp = new XMLHttpRequest(); xmlHttp.open("GET", "http://www.rvparkreviews.com/ajaxmap/hit", true); xmlHttp.send(null); } },3000); }, false);
+	map_5ac4bfadd2811351125161_container.event_manager.events.marker_5ac4bfadd2926210985074_info_window_event = marker_5ac4bfadd2926210985074_info_window_event = google.maps.event.addListener(marker_5ac4bfadd2926210985074, "click", function () { for (var info_window in map_5ac4bfadd2811351125161_container.closable_info_windows) { map_5ac4bfadd2811351125161_container.closable_info_windows[info_window].close(); } info_window_5ac4bfadd2f2e512817165.open(map_5ac4bfadd2811351125161, marker_5ac4bfadd2926210985074);
+	});
+	map_5ac4bfadd2811351125161_container.event_manager.events.marker_5ac4bfadd2f6d934381028_info_window_event = marker_5ac4bfadd2f6d934381028_info_window_event = google.maps.event.addListener(marker_5ac4bfadd2f6d934381028, "click", function () { for (var info_window in map_5ac4bfadd2811351125161_container.closable_info_windows) { map_5ac4bfadd2811351125161_container.closable_info_windows[info_window].close(); } info_window_5ac4bfadd3059825789466.open(map_5ac4bfadd2811351125161, marker_5ac4bfadd2f6d934381028);
+	});
+	}
+</script>
+<script type="text/javascript">
+	function load_ivory_google_map_api () { google.load("maps", "3", {"other_params":"language=en&key=AIzaSyC7dELAlGhs-ur5aBTWXzGLXJDzi2L5kck","callback":load_ivory_google_map}); };
+</script>
+<script type="text/javascript" src="http://www.google.com/jsapi?callback=load_ivory_google_map_api">
+</script>
+<script>
+	$(document).ready(function () {
+
+	    var gdata = [];
+
+	    var input = ($('.js-autocomplete'));
+
+	    var tfunc;
+
+	    var tdata = [];
+
+	    $.widget("custom.catcomplete", $.ui.autocomplete, {
+	        _create: function () {
+	            this._super();
+	            this.widget().menu("option", "items", "> :not(.ui-autocomplete-category)");
+	        },
+	        _renderMenu: function (ul, items) {
+	            var that = this,
+	                    currentCategory = "";
+	            $.each(items, function (index, item) {
+	                var li;
+	                if (item.category != currentCategory) {
+	                    ul.append("<li class='ui-autocomplete-category'>" + item.category + "</li>");
+	                    currentCategory = item.category;
+	                }
+	                li = that._renderItemData(ul, item);
+	                if (item.category) {
+	                    li.attr("aria-label", item.category + " : " + item.label);
+	                    li.attr("class", "ui-result-type-" + item.type);
+	                    if (item.type == 'park') {
+	                        li.append("<a class='ui-secondary-label'><span class=text-muted>" + item.city_name + ', ' + item.region_name + "</span></a>");
+	                    }
+	                }
+	            });
+	        }
+	    });
+
+	    $(".js-autocomplete").catcomplete({
+	        delay: 500,
+	        source: function (request, response) {
+	            jQuery.get('http://www.rvparkreviews.com/ajaxsearch/' + request.term, {
+	                query: request.term
+	            }, function (data) {
+
+	                d = $.parseJSON(data);
+
+	                data = d['regions'];
+
+	                response(data.concat(d['parks']));
+
+	                // data = gogetgoogle(data, request.term, response);
+	            });
+	        },
+
+	        minLength: 0,
+
+	        select: function (event, ui) {
+
+	            if (typeof ui.item.url !== 'undefined') {
+	                window.location = ui.item.url;
+	            }
+
+	            else {
+
+	                $(input).val(ui.item.value);
+
+	                var f = $("#topsearch");
+
+	                if (!$('#gsearch').length)
+	                    $('<input>').attr({type: 'hidden', name: 'gsearch', id: 'gsearch'}).appendTo(f);
+
+	                $('<input>').attr({type: 'hidden', name: 'ghappened', id: 'ghappened'}).appendTo(f);
+
+	                $('#gsearch').val(ui.item.value);
+
+
+	               f.submit();
+
+	            }
+	        }
+	    });
+
+	    $("#topsearch").submit(function () {
+	        if (!$('#ghappened').length)
+	        {
+	            $('#gsearch').remove();
+	        }
+	    });
+
+	    if ($('#query2').length) {
+	        var input2 = (document.getElementById('query2'));
+
+	        $("#query2").catcomplete({
+	            source: function (request, response) {
+	                jQuery.get('http://www.rvparkreviews.com/ajaxsearch/' + request.term, {
+	                    query: request.term
+	                }, function (data) {
+	                    d = $.parseJSON(data);
+
+	                    data = d['regions'];
+
+	                    response(data.concat(d['parks']));
+
+	                    //  data = gogetgoogle(data, request.term, response);
+	                });
+	            },
+	            minLength: 1,
+	            select: function (event, ui) {
+
+	                if (typeof ui.item.url !== 'undefined') {
+	                    window.location = ui.item.url;
+	                }
+	                else {
+	                    $(input2).val(ui.item.value);
+
+	                    var f2 = $("#midsearch");
+
+	                    if (!$('#gsearch2').length)
+	                        $('<input>').attr({type: 'hidden', name: 'gsearch', id: 'gsearch2'}).appendTo(f2);
+
+	                    $('<input>').attr({type: 'hidden', name: 'ghappened', id: 'ghappened2'}).appendTo(f2);
+
+	                    $('#gsearch2').val(ui.item.value);
+
+
+	                       $("#midsearch").submit(function () {
+	                        if (!$('#ghappened2').length) {
+	                            $('#gsearch2').remove();
+	                        }
+	                    });
+
+	                    f2.submit();
+	                }
+	            }
+	        });
+	    }
+
+
+	    function gogetgoogle(data, term, func) {
+	        tfunc = func;
+
+	        tdata = data;
+
+	        var service = new google.maps.places.AutocompleteService();
+
+	        service.getPlacePredictions({
+	            input: term,
+	            types: ['(cities)'],
+	            componentRestrictions: {
+	                country: 'us' }
+	        }, addtogdata);
+	    }
+
+	    function addtogdata(predictions, status) {
+	        gdata = [];
+
+	        $.each(predictions, function (index, value) {
+
+	            var obj = [];
+	            var p = parse_place(value);
+
+	            obj['category'] = 'Places of Interest';
+
+	            obj['value'] = p['city'] + ', ' + p['state'];
+
+	            gdata.push(obj);
+	        });
+
+	        tdata.concat(gdata);
+
+	        tfunc(tdata.concat(gdata));
+	    }
+
+	    function parse_place(place) {
+	        var location = [];
+
+	        for (var ac = 0; ac < place.terms.length; ac++) {
+	            var component = place.terms[ac];
+
+	            switch (place.types[ac]) {
+	                case 'locality':
+	                    location['city'] = component.value;
+	                    break;
+	                case 'political':
+	                    location['state'] = component.value;
+	                    break;
+	                case 'geocode':
+	                    location['country'] = component.value;
+	                    break;
+	                case 'administrative_area_level_1':
+	                    location['state'] = component.value;
+	                    break;
+	                case 'country':
+	                    location['country'] = component.value;
+	                    break;
+	            }
+	        }
+
+	        if (typeof location['city'] === 'undefined')
+	            location['city'] = place.terms[0].value;
+
+	        return location;
+	    }
+
+	    // }
+	});
 </script>
 </body>
 </html>

@@ -1,12 +1,37 @@
 body
 {
-	background-color: #5aa001;
-	color: white;
-	font-size: 13pt;
+    font-size: 13pt;
+
+    color: white;
+    background-color: #5aa001;
 }
 
-a { color: #FFFFFF; }
-a:visited { color: #0080ff; }
-figure { margin-bottom: 3px; }
-h2 { text-transform: uppercase; }
-.blue { color: navy; }
+a
+{
+    color: #fff;
+}
+a:visited
+{
+    color: #0080ff;
+}
+figure
+{
+    margin-bottom: 3px;
+}
+h2
+{
+    text-transform: uppercase;
+}
+.blue
+{
+    color: navy;
+}
+
+@media (print)
+{
+    body
+    {
+        color: black;
+        background-color: white;
+    }
+}

@@ -310,17 +310,6 @@
 		"oT": 1,
 		"q": 80
 		},
-	"\/_assets\/img\/About-Us~~element53.jpg": {
-		"ft": 16384,
-		"iS": 10290,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_assets\/img\/About-Us~~element53.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 80
-		},
 	"\/_assets\/img\/About-Us~~element58.jpg": {
 		"ft": 16384,
 		"iS": 14863,
@@ -331,14 +320,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 80
-		},
-	"\/_assets\/img\/Accent_Square_Cream.gif": {
-		"ft": 4194304,
-		"iS": 67,
-		"oA": 0,
-		"oAP": "\/_assets\/img\/Accent_Square_Cream.gif",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/_assets\/img\/Airial_1.jpg": {
 		"ft": 16384,
@@ -357,6 +338,72 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/BEACH.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/blaze-in-saddle-2.jpg": {
+		"ft": 16384,
+		"iS": 145468,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/blaze-in-saddle-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/blaze-in-saddle-3.jpg": {
+		"ft": 16384,
+		"iS": 133378,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/blaze-in-saddle-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/blaze-in-saddle-4.jpg": {
+		"ft": 16384,
+		"iS": 67538,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/blaze-in-saddle-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/blaze-in-saddle-5.jpg": {
+		"ft": 16384,
+		"iS": 159329,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/blaze-in-saddle-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/blaze-in-saddle-6.jpg": {
+		"ft": 16384,
+		"iS": 64168,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/blaze-in-saddle-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/blaze-in-saddle-7.jpg": {
+		"ft": 16384,
+		"iS": 21923,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/blaze-in-saddle-7.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -439,14 +486,6 @@
 		"opt": 0,
 		"q": 80
 		},
-	"\/_assets\/img\/javascript_disabled.gif": {
-		"ft": 4194304,
-		"iS": 833,
-		"oA": 0,
-		"oAP": "\/_assets\/img\/javascript_disabled.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/_assets\/img\/Knotts_Berry_Farm_560856_i0.jpg": {
 		"ft": 16384,
 		"iS": 39922,
@@ -456,17 +495,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 80
-		},
-	"\/_assets\/img\/mapimage.png": {
-		"ft": 32768,
-		"iS": 32583,
-		"oA": 0,
-		"oAP": "\/_assets\/img\/mapimage.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 80
 		},
 	"\/_assets\/img\/NAC.jpg": {
@@ -589,14 +617,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 80
-		},
-	"\/_assets\/img\/tp.gif": {
-		"ft": 4194304,
-		"iS": 43,
-		"oA": 0,
-		"oAP": "\/_assets\/img\/tp.gif",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/_assets\/img\/yelp.jpg": {
 		"ft": 16384,

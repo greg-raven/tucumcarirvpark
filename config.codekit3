@@ -486,6 +486,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"\/_assets\/img\/mountain.jpg": {
+		"ft": 16384,
+		"iS": 114423,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/mountain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"\/_assets\/img\/NAC.jpg": {
 		"ft": 16384,
 		"iS": 58411,
@@ -585,6 +596,17 @@
 		"oT": 1,
 		"q": 80
 		},
+	"\/_assets\/img\/route-66-sculpture.jpg": {
+		"ft": 16384,
+		"iS": 57884,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/route-66-sculpture.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"\/_assets\/img\/RV_Park_011.jpg": {
 		"ft": 16384,
 		"iS": 56978,
@@ -602,6 +624,50 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/RVPARK2__3_.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/sunset.jpg": {
+		"ft": 16384,
+		"iS": 9029,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/sunset.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/tucumcari-police.jpg": {
+		"ft": 16384,
+		"iS": 35101,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/tucumcari-police.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/tucumcari-tonight.jpg": {
+		"ft": 16384,
+		"iS": 80179,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/tucumcari-tonight.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/us-route-66.jpg": {
+		"ft": 16384,
+		"iS": 53207,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/us-route-66.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

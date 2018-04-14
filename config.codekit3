@@ -310,6 +310,28 @@
 		"oT": 1,
 		"q": 80
 		},
+	"\/_assets\/img\/.blaze-in-saddle-3~imageoptim.jpg": {
+		"ft": 16384,
+		"iS": 104845,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/.blaze-in-saddle-3~imageoptim.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/.blaze-in-saddle-4~imageoptim.jpg": {
+		"ft": 16384,
+		"iS": 73295,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/.blaze-in-saddle-4~imageoptim.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"\/_assets\/img\/About-Us~~element58.jpg": {
 		"ft": 16384,
 		"iS": 14863,
@@ -334,7 +356,7 @@
 		},
 	"\/_assets\/img\/blaze-in-saddle-2.jpg": {
 		"ft": 16384,
-		"iS": 145468,
+		"iS": 519653,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-2.jpg",
@@ -350,8 +372,8 @@
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-3.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"\/_assets\/img\/blaze-in-saddle-4.jpg": {
@@ -361,8 +383,8 @@
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-4.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"\/_assets\/img\/blaze-in-saddle-5.jpg": {
@@ -372,8 +394,8 @@
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-5.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"\/_assets\/img\/blaze-in-saddle-6.jpg": {
@@ -383,8 +405,8 @@
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-6.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"\/_assets\/img\/blaze-in-saddle-7.jpg": {
@@ -647,8 +669,8 @@
 		"oA": 0,
 		"oAP": "\/_assets\/img\/yelp.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"\/about-us.html": {

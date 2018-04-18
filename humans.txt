@@ -1,0 +1,18 @@
+/* TEAM */
+Owner: Michael Castelli
+Site: https://www.blaze-in-saddle.com
+Facebook: https://www.facebook.com/michael.castelli.96
+Location: New Mexico
+
+Webmaster: Greg Raven
+Site: https://en.gravatar.com/gregraven
+Twitter: @gregraven
+Keybase: https://keybase.io/gregraven
+Location: California
+
+/* SITE */
+Language:  English
+Doctype: HTML5
+Standards: HTML5, CSS3, JavaScript
+Components: jQuery, Bootstrap, Font Awesome,
+Software: BBEdit, Pixelmator, CodeKit

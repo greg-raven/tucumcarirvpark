@@ -334,7 +334,7 @@
 		},
 	"\/_assets\/img\/blaze-in-saddle-3.jpg": {
 		"ft": 16384,
-		"iS": 133378,
+		"iS": 104845,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-3.jpg",
@@ -409,6 +409,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"\/_assets\/img\/first-horse-visitor.jpg": {
+		"ft": 16384,
+		"iS": 110920,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/first-horse-visitor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"\/_assets\/img\/park-map-large.jpg": {
 		"ft": 16384,
 		"iS": 250693,
@@ -437,6 +448,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/route-66-sculpture.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/street-view.jpg": {
+		"ft": 16384,
+		"iS": 194449,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/street-view.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -536,13 +558,6 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/map-PreviewTemp-38DD9116-8EE6-418C-A8E3-E9164C036DED.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/map-PreviewTemp-38DD9116-8EE6-418C-A8E3-E9164C036DED.html",
-		"oF": 0
-		},
 	"\/map.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -569,6 +584,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/robots.txt",
+		"oF": 0
+		},
+	"\/rules-PreviewTemp-F3A89CA0-AA8B-43AE-BC4B-F20E12D93F0B.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/rules-PreviewTemp-F3A89CA0-AA8B-43AE-BC4B-F20E12D93F0B.html",
 		"oF": 0
 		},
 	"\/rules.html": {

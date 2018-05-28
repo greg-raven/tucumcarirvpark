@@ -409,6 +409,28 @@
 		"opt": 0,
 		"q": 80
 		},
+	"\/_assets\/img\/park-map-large.jpg": {
+		"ft": 16384,
+		"iS": 250693,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/park-map-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/park-map.jpg": {
+		"ft": 16384,
+		"iS": 96748,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/park-map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"\/_assets\/img\/route-66-sculpture.jpg": {
 		"ft": 16384,
 		"iS": 57884,
@@ -514,11 +536,25 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/map-PreviewTemp-38DD9116-8EE6-418C-A8E3-E9164C036DED.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/map-PreviewTemp-38DD9116-8EE6-418C-A8E3-E9164C036DED.html",
+		"oF": 0
+		},
 	"\/map.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/map.html",
+		"oF": 0
+		},
+	"\/park-map.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/park-map.html",
 		"oF": 0
 		},
 	"\/photos.html": {

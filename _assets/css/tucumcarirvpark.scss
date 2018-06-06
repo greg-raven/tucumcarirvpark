@@ -1,60 +1,64 @@
 /* Extra small devices (phones, less than 768px) */
+
 /* No media query since this is the default in Bootstrap */
-body
-{
+
+body {
 	color: white;
 	background-color: #5aa001;
 }
 
-a { color: #fff; }
-a:visited { color: #0080ff; }
-figure { margin-bottom: 3px; }
-h2 { text-transform: uppercase; }
-.blue { color: navy; }
+a {
+	color: #fff;
+}
 
-.facebook
-{
+a:visited {
+	color: #0080ff;
+}
+
+figure {
+	margin-bottom: 3px;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+.blue {
+	color: navy;
+}
+
+.facebook {
 	background-color: white;
 	color: #395a9c;
 }
 
-.yelp
-{
+.yelp {
 	background-color: white;
 	color: #c51200;
 }
 
 /* Small devices (tablets, 768px and up) */
 
-@media (min-width: 768px)
-{
-body
-{
-	font-size: 14pt;
-}
+@media (min-width: 768px) {
+	body {
+		font-size: 14pt;
+	}
 }
 
 /* Medium devices (desktops, 992px and up) */
 
-@media (min-width: 992px)
-{
-
-}
+@media (min-width: 992px) {}
 
 /* Large devices (large desktops, 1200px and up) */
 
-@media (min-width: 1200px)
-{
+@media (min-width: 1200px) {}
 
-}
-
-@media (print)
-{
-	body
-	{
+@media (print) {
+	body {
 		color: black;
 		background-color: white;
 	}
-
-	.navbar { display: none; }
+	.navbar {
+		display: none;
+	}
 }

@@ -9,14 +9,6 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/.vscode\/settings.json": {
-		"ft": 524288,
-		"oA": 0,
-		"oAP": "\/.vscode\/settings.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/_assets\/css\/tucumcarirvpark.css": {
 		"aP": 1,
 		"bl": 0,
@@ -342,7 +334,7 @@
 		},
 	"\/_assets\/img\/blaze-in-saddle-3.jpg": {
 		"ft": 16384,
-		"iS": 104845,
+		"iS": 133378,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-3.jpg",
@@ -353,7 +345,7 @@
 		},
 	"\/_assets\/img\/blaze-in-saddle-4.jpg": {
 		"ft": 16384,
-		"iS": 67538,
+		"iS": 73295,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-4.jpg",

@@ -11,10 +11,6 @@ a {
 	color: #fff !important;
 }
 
-a:visited {
-	color: #0080ff;
-}
-
 figure {
 	margin-bottom: 3px;
 }
@@ -23,20 +19,24 @@ h2 {
 	text-transform: uppercase;
 }
 
+a.nb {
+	color: #777 !important;
+}
+
 q:before {
-    content: "\201c"
+    content: "\201c";
 }
 
 q:after {
-    content: "\201d"
+    content: "\201d";
 }
 
 q q:before {
-    content: "\2018"
+    content: "\2018";
 }
 
 q q:after {
-    content: "\2019"
+    content: "\2019";
 }
 
 .blue {

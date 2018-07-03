@@ -345,7 +345,7 @@
 		},
 	"\/_assets\/img\/blaze-in-saddle-4.jpg": {
 		"ft": 16384,
-		"iS": 73295,
+		"iS": 67538,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-4.jpg",
@@ -437,6 +437,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/park-map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/_assets\/img\/reviews.jpg": {
+		"ft": 16384,
+		"iS": 3606,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/reviews.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -577,6 +588,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/photos.html",
+		"oF": 0
+		},
+	"\/reviews.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/reviews.html",
 		"oF": 0
 		},
 	"\/robots.txt": {

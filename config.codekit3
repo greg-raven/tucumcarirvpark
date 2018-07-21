@@ -574,6 +574,33 @@
 		"opt": 1,
 		"q": 80
 		},
+	"\/_assets\/js\/currentyear-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_assets\/js\/currentyear-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_assets\/js\/currentyear-min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/js\/currentyear-min.js.map",
+		"oF": 0
+		},
+	"\/_assets\/js\/currentyear.js": {
+		"ft": 64,
+		"ma": 1,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_assets\/js\/currentyear-min.js",
+		"oF": 2,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/about-us.html": {
 		"cB": 0,
 		"ft": 8192,

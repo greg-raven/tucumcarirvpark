@@ -1,0 +1,1 @@
+{"version":3,"sources":["currentyear.js"],"names":["currentTime","Date","year","getFullYear","document","getElementById","innerHTML"],"mappings":"AACA,GAAIA,aAAc,GAAIC,MAElBC,KAAOF,YAAYG,aAIvBC,UAASC,eAAe,eAAeC,UAAYJ","file":"currentyear-min.js"}

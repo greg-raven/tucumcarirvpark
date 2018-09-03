@@ -28,6 +28,11 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://www.blaze-in-saddle.com/reviews.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://www.blaze-in-saddle.com/about-us.html</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>

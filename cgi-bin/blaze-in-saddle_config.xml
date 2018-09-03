@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site
+  base_url="https://www.blaze-in-saddle.com/"
+  store_into="/Users/greg/Sites/tucumcarirvpark/tucumcarirvpark-build/sitemap.xml"
+  verbose="1"
+  >
+
+  <directory
+     path="/Users/greg/Sites/tucumcarirvpark/tucumcarirvpark-build/"
+     url="https://www.blaze-in-saddle.com/"
+  />
+
+  <url
+     href="https://www.blaze-in-saddle.com/index.html"
+     priority="1.0"
+  />
+
+<!-- This section is supposed to drop files and sub-directories I don't want crawled -->
+	<filter action="drop" type="wildcard" pattern="*/_assets/*" />
+	<filter action="drop" type="wildcard" pattern="*/cgi-bin/*" />
+
+<!-- This filter passes all HTML files and drops everything else -->
+	<filter action="pass" type="wildcard" pattern="*.html" />
+	<filter action="pass" type="wildcard" pattern="*.pdf" />
+	<filter action="drop" type="wildcard" pattern="*.*" />
+
+</site>

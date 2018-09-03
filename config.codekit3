@@ -433,7 +433,7 @@
 		},
 	"\/_assets\/img\/blaze-in-saddle-4.jpg": {
 		"ft": 16384,
-		"iS": 73295,
+		"iS": 67538,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-4.jpg",
@@ -663,11 +663,39 @@
 		"oAP": "\/about-us.html",
 		"oF": 0
 		},
+	"\/cgi-bin\/blaze-in-saddle_config.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cgi-bin\/blaze-in-saddle_config.xml",
+		"oF": 0
+		},
+	"\/cgi-bin\/sitemap_gen.py": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cgi-bin\/sitemap_gen.py",
+		"oF": 0
+		},
+	"\/cgi-bin\/sitemap_gen.sh": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cgi-bin\/sitemap_gen.sh",
+		"oF": 0
+		},
 	"\/contact-us.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/contact-us.html",
+		"oF": 0
+		},
+	"\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
 	"\/humans.txt": {

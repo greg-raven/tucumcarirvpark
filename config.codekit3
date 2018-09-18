@@ -422,7 +422,7 @@
 		},
 	"\/_assets\/img\/blaze-in-saddle-3.jpg": {
 		"ft": 16384,
-		"iS": 104845,
+		"iS": 133378,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_assets\/img\/blaze-in-saddle-3.jpg",
@@ -790,7 +790,7 @@
 "projectAttributes": {
 	"creationDate": 544305684,
 	"displayValue": "blaze-in-saddle-build",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-yesBaby",
 	"iconImageWasSetByUser": 0
 	},

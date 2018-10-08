@@ -420,6 +420,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/bing-places-for-business.jpg": {
+		"ft": 16384,
+		"iS": 1902,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/bing-places-for-business.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/blaze-in-saddle-3.jpg": {
 		"ft": 16384,
 		"iS": 133378,
@@ -506,6 +517,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/google-maps.jpg": {
+		"ft": 16384,
+		"iS": 11496,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/google-maps.jpg",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"/_assets/img/grand-opening-1.jpg": {

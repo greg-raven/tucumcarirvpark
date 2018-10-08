@@ -508,6 +508,72 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/grand-opening-1.jpg": {
+		"ft": 16384,
+		"iS": 75002,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/grand-opening-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/grand-opening-2.jpg": {
+		"ft": 16384,
+		"iS": 100476,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/grand-opening-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/grand-opening-3.jpg": {
+		"ft": 16384,
+		"iS": 76697,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/grand-opening-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/grand-opening-4.jpg": {
+		"ft": 16384,
+		"iS": 114489,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/grand-opening-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/grand-opening-5.jpg": {
+		"ft": 16384,
+		"iS": 41273,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/grand-opening-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/grand-opening-6.jpg": {
+		"ft": 16384,
+		"iS": 114004,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/grand-opening-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/park-map-large.jpg": {
 		"ft": 16384,
 		"iS": 250693,
@@ -759,6 +825,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/rules.html",
+		"oF": 0
+		},
+	"/search-bing-PreviewTemp-397A1021-5EBC-4EB6-8CD4-3D4207CB1203.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/search-bing-PreviewTemp-397A1021-5EBC-4EB6-8CD4-3D4207CB1203.html",
 		"oF": 0
 		},
 	"/search-bing.html": {

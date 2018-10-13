@@ -7,7 +7,7 @@
 		"uuidString": "F61C2253-995D-4A88-9661-AA048A78E347"
 		}
 	],
-"creatorBuild": "28901",
+"creatorBuild": "28905",
 "files": {
 	"/_assets/css/blaze-in-saddle.css": {
 		"aP": 1,
@@ -420,15 +420,15 @@
 		"opt": 0,
 		"q": 80
 		},
-	"/_assets/img/bing-places-for-business.jpg": {
-		"ft": 16384,
-		"iS": 1902,
-		"jF": 0,
+	"/_assets/img/bing-places-for-business.png": {
+		"ft": 32768,
+		"iS": 1702,
 		"oA": 0,
-		"oAP": "/_assets/img/bing-places-for-business.jpg",
+		"oAP": "/_assets/img/bing-places-for-business.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 80
 		},
 	"/_assets/img/blaze-in-saddle-3.jpg": {

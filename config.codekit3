@@ -497,6 +497,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/David-Sartorelli.jpg": {
+		"ft": 16384,
+		"iS": 327563,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/David-Sartorelli.jpg",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
+		},
 	"/_assets/img/facebook.jpg": {
 		"ft": 16384,
 		"iS": 1799,
@@ -662,12 +673,34 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/tucumcari-mountain-marker.jpg": {
+		"ft": 16384,
+		"iS": 136828,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/tucumcari-mountain-marker.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/tucumcari-mountain.jpg": {
 		"ft": 16384,
 		"iS": 114423,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_assets/img/tucumcari-mountain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/tucumcari-points-of-interest.jpg": {
+		"ft": 16384,
+		"iS": 141604,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/tucumcari-points-of-interest.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -826,13 +859,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/photos.html",
-		"oF": 0
-		},
-	"/reviews-PreviewTemp-53601ECA-11B3-468B-A70D-9CA1614AE528.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/reviews-PreviewTemp-53601ECA-11B3-468B-A70D-9CA1614AE528.html",
 		"oF": 0
 		},
 	"/reviews.html": {

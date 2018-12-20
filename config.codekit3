@@ -629,6 +629,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/passport-america.png": {
+		"ft": 32768,
+		"iS": 8323,
+		"oA": 0,
+		"oAP": "/_assets/img/passport-america.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
+		},
 	"/_assets/img/reviews.jpg": {
 		"ft": 16384,
 		"iS": 3606,
@@ -859,13 +870,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/photos.html",
-		"oF": 0
-		},
-	"/reviews-PreviewTemp-0C2BBF6D-7F0F-403C-A941-7F4D65680AAF.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/reviews-PreviewTemp-0C2BBF6D-7F0F-403C-A941-7F4D65680AAF.html",
 		"oF": 0
 		},
 	"/reviews.html": {

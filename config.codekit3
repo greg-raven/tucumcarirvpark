@@ -801,6 +801,14 @@
 		"oAP": "/about-us.html",
 		"oF": 0
 		},
+	"/BingSiteAuth.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/BingSiteAuth.xml",
+		"oF": 0
+		},
 	"/cgi-bin/blaze-in-saddle_config.xml": {
 		"cB": 0,
 		"ft": 8192,

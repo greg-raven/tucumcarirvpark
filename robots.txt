@@ -1,7 +1,5 @@
 User-agent: *
 
-Allow: /
-
 Sitemap: https://www.blaze-in-saddle.com/sitemap.xml
 Sitemap: https://www.blaze-in-saddle.com/sitemap.txt
 

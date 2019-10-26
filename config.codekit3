@@ -7,7 +7,7 @@
 		"uuidString": "66D32C57-DF95-4F4A-A0D1-2BC3CC9E9E0A"
 		}
 	],
-"creatorBuild": "31927",
+"creatorBuild": "31934",
 "files": {
 	"/_assets/css/blaze-in-saddle.css": {
 		"aP": 1,
@@ -801,12 +801,42 @@
 		"oAP": "/about-us.html",
 		"oF": 0
 		},
+	"/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 4093,
+		"oA": 0,
+		"oAP": "/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
+		},
+	"/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 10325,
+		"oA": 0,
+		"oAP": "/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
+		},
 	"/BingSiteAuth.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/BingSiteAuth.xml",
+		"oF": 0
+		},
+	"/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/browserconfig.xml",
 		"oF": 0
 		},
 	"/cgi-bin/blaze-in-saddle_config.xml": {
@@ -841,13 +871,27 @@
 		"oAP": "/contact-us.html",
 		"oF": 0
 		},
-	"/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 452,
 		"oA": 0,
-		"oAP": "/favicon.ico",
-		"oF": 0
+		"oAP": "/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
+		},
+	"/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 886,
+		"oA": 0,
+		"oAP": "/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
 		},
 	"/grand-opening.html": {
 		"cB": 0,
@@ -880,6 +924,17 @@
 		"oA": 0,
 		"oAP": "/map.html",
 		"oF": 0
+		},
+	"/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 3248,
+		"oA": 0,
+		"oAP": "/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
 		},
 	"/netlify.toml": {
 		"cB": 0,
@@ -929,6 +984,16 @@
 		"oAP": "/rules.html",
 		"oF": 0
 		},
+	"/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/search-bing.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -951,6 +1016,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/search-google.html",
+		"oF": 0
+		},
+	"/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site.webmanifest",
 		"oF": 0
 		},
 	"/sitemap.txt": {
@@ -978,7 +1051,7 @@
 	"creationDate": 592700202.94733298,
 	"displayValue": "Blaze-In-Saddle RV Park",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets-tar",
+	"iconImageName": "/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -2911,7 +2984,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,

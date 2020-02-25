@@ -339,18 +339,18 @@
 		},
 	"/_assets/img/park-map-large.jpg": {
 		"ft": 16384,
-		"iS": 260728,
+		"iS": 320880,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_assets/img/park-map-large.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"/_assets/img/park-map.jpg": {
 		"ft": 16384,
-		"iS": 108897,
+		"iS": 74526,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_assets/img/park-map.jpg",
@@ -729,14 +729,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/robots.txt",
-		"oF": 0
-		},
-	"/rules-PreviewTemp-8EF12A6D-F9B9-4DF7-9363-3BC3255B3563.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/rules-PreviewTemp-8EF12A6D-F9B9-4DF7-9363-3BC3255B3563.html",
 		"oF": 0
 		},
 	"/rules.html": {

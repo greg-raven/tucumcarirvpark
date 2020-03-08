@@ -172,6 +172,39 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/bathroom-1.jpg": {
+		"ft": 16384,
+		"iS": 79923,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/bathroom-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/bathroom-2.jpg": {
+		"ft": 16384,
+		"iS": 97727,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/bathroom-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/bathroom-3.jpg": {
+		"ft": 16384,
+		"iS": 110370,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/bathroom-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/bing-places-for-business.png": {
 		"ft": 32768,
 		"iS": 1702,

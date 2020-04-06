@@ -576,6 +576,14 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"/_redirects": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_redirects",
+		"oF": 0
+		},
 	"/about-us.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -737,14 +745,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 80
-		},
-	"/netlify.toml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/netlify.toml",
-		"oF": 0
 		},
 	"/package-lock.json": {
 		"ft": 524288,

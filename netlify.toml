@@ -1,0 +1,5 @@
+[[redirects]]
+	from = "https://www.blaze-in-saddle.netlify.app/*"
+	to = "https://www.blaze-in-saddle.com/:splat"
+	status = 301
+	force = true

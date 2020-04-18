@@ -1,23 +1,23 @@
 [[redirects]]
-	from = "http://www.blaze-in-saddle.netlify.com/*"
+	from = "http://blaze-in-saddle.netlify.com/*"
 	to = "https://www.blaze-in-saddle.com/:splat"
 	status = 301
 	force = true
 
 [[redirects]]
-	from = "https://www.blaze-in-saddle.netlify.com/*"
+	from = "https://blaze-in-saddle.netlify.com/*"
 	to = "https://www.blaze-in-saddle.com/:splat"
 	status = 301
 	force = true
 
 [[redirects]]
-	from = "http://www.blaze-in-saddle.netlify.app/*"
+	from = "http://blaze-in-saddle.netlify.app/*"
 	to = "https://www.blaze-in-saddle.com/:splat"
 	status = 301
 	force = true
 
 [[redirects]]
-	from = "https://www.blaze-in-saddle.netlify.app/*"
+	from = "https://blaze-in-saddle.netlify.app/*"
 	to = "https://www.blaze-in-saddle.com/:splat"
 	status = 301
 	force = true

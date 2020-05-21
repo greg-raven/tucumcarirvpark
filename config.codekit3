@@ -7,7 +7,7 @@
 		"uuidString": "66D32C57-DF95-4F4A-A0D1-2BC3CC9E9E0A"
 		}
 	],
-"creatorBuild": "32001",
+"creatorBuild": "32147",
 "files": {
 	"/_assets/css/blaze-in-saddle.css": {
 		"aP": 1,
@@ -31,14 +31,14 @@
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
 		"oAP": "/_assets/css/blaze-in-saddle.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/_assets/img/20180513-equine-visitor.jpg": {
 		"ft": 16384,
@@ -2882,13 +2882,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
+		"compilerType": 1,
 		"createSourceMap": 1,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,

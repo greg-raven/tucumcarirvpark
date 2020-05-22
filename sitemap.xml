@@ -5,17 +5,17 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://www.blaze-in-saddle.com/about-us.html</loc>
+  <loc>https://www.blaze-in-saddle.com/about-us/index.html</loc>
   <lastmod>2018-12-18T15:19:18Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/contact-us.html</loc>
+  <loc>https://www.blaze-in-saddle.com/contact-us/index.html</loc>
   <lastmod>2018-10-13T21:41:55Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/grand-opening.html</loc>
+  <loc>https://www.blaze-in-saddle.com/grand-opening/index.html</loc>
   <lastmod>2018-10-13T21:41:55Z</lastmod>
   <priority>0.5000</priority>
  </url>
@@ -25,42 +25,42 @@
   <priority>1.0000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/map.html</loc>
+  <loc>https://www.blaze-in-saddle.com/map/index.html</loc>
   <lastmod>2018-10-13T21:45:08Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/park-map.html</loc>
+  <loc>https://www.blaze-in-saddle.com/park-map/index.html</loc>
   <lastmod>2018-10-13T21:41:55Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/photos.html</loc>
+  <loc>https://www.blaze-in-saddle.com/photos/index.html</loc>
   <lastmod>2018-10-13T21:41:55Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/reviews.html</loc>
+  <loc>https://www.blaze-in-saddle.com/reviews/index.html</loc>
   <lastmod>2018-12-18T15:21:28Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/rules.html</loc>
+  <loc>https://www.blaze-in-saddle.com/rules/index.html</loc>
   <lastmod>2018-12-18T15:20:13Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/search-bing.html</loc>
+  <loc>https://www.blaze-in-saddle.com/search-bing/index.html</loc>
   <lastmod>2018-10-13T21:41:55Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/search-duckduckgo.html</loc>
+  <loc>https://www.blaze-in-saddle.com/search-duckduckgo/index.html</loc>
   <lastmod>2018-10-13T21:41:55Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://www.blaze-in-saddle.com/search-google.html</loc>
+  <loc>https://www.blaze-in-saddle.com/search-google/index.html</loc>
   <lastmod>2018-10-13T21:41:55Z</lastmod>
   <priority>0.5000</priority>
  </url>

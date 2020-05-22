@@ -3,3 +3,17 @@
 https://blaze-in-saddle.netlify.app/* https://www.blaze-in-saddle.com/:splat 301!
 https://blaze-in-saddles.com/* https://www.blaze-in-saddle.com/:splat 301!
 https://www.blaze-in-saddles.com/* https://www.blaze-in-saddle.com/:splat 301!
+
+# other redirects
+
+/about-us.html /about-us/index.html 301
+/contact-us.html /contact-us/index.html 301
+/grand-opening.html /grand-opening/index.html 301
+/map.html /map/index.html 301
+/park-map.html /park-map/index.html 301
+/photos.html /photos/index.html 301
+/reviews.html /reviews/index.html 301
+/rules.html /rules/index.html 301
+/search-bing.html /search-bing/index.html 301
+/search-duckduckgo.html /search-duckduckgo/index.html 301
+/search-google.html /search-google/index.html 301

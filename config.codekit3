@@ -584,12 +584,12 @@
 		"oAP": "/_redirects",
 		"oF": 0
 		},
-	"/about-us.html": {
+	"/about-us/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/about-us.html",
+		"oAP": "/about-us/index.html",
 		"oF": 0
 		},
 	"/android-chrome-192x192.png": {
@@ -665,12 +665,12 @@
 		"oAP": "/cgi-bin/sitemap_gen.sh",
 		"oF": 0
 		},
-	"/contact-us.html": {
+	"/contact-us/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/contact-us.html",
+		"oAP": "/contact-us/index.html",
 		"oF": 0
 		},
 	"/favicon-16x16.png": {
@@ -703,12 +703,12 @@
 		"oAP": "/favicon.ico",
 		"oF": 0
 		},
-	"/grand-opening.html": {
+	"/grand-opening/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/grand-opening.html",
+		"oAP": "/grand-opening/index.html",
 		"oF": 0
 		},
 	"/humans.txt": {
@@ -727,12 +727,12 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
-	"/map.html": {
+	"/map/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/map.html",
+		"oAP": "/map/index.html",
 		"oF": 0
 		},
 	"/mstile-150x150.png": {
@@ -754,28 +754,28 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/park-map.html": {
+	"/park-map/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/park-map.html",
+		"oAP": "/park-map/index.html",
 		"oF": 0
 		},
-	"/photos.html": {
+	"/photos/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/photos.html",
+		"oAP": "/photos/index.html",
 		"oF": 0
 		},
-	"/reviews.html": {
+	"/reviews/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/reviews.html",
+		"oAP": "/reviews/index.html",
 		"oF": 0
 		},
 	"/robots.txt": {
@@ -786,12 +786,12 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"/rules.html": {
+	"/rules/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/rules.html",
+		"oAP": "/rules/index.html",
 		"oF": 0
 		},
 	"/safari-pinned-tab.svg": {
@@ -804,28 +804,28 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/search-bing.html": {
+	"/search-bing/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/search-bing.html",
+		"oAP": "/search-bing/index.html",
 		"oF": 0
 		},
-	"/search-duckduckgo.html": {
+	"/search-duckduckgo/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/search-duckduckgo.html",
+		"oAP": "/search-duckduckgo/index.html",
 		"oF": 0
 		},
-	"/search-google.html": {
+	"/search-google/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/search-google.html",
+		"oAP": "/search-google/index.html",
 		"oF": 0
 		},
 	"/site.webmanifest": {

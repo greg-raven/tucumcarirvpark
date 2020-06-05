@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "66D32C57-DF95-4F4A-A0D1-2BC3CC9E9E0A"
+		"uuidString": "3DFC2B31-9DC5-4271-8146-02F7AB4135CC"
 		}
 	],
 "creatorBuild": "32147",
@@ -15,7 +15,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "/_assets/css/blaze-in-saddle.css",
+		"oAP": "/build/_assets/css/blaze-in-saddle.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -24,7 +24,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_assets/css/blaze-in-saddle.css.map",
+		"oAP": "/build/_assets/css/blaze-in-saddle.css.map",
 		"oF": 0
 		},
 	"/_assets/css/blaze-in-saddle.scss": {
@@ -35,17 +35,17 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "/_assets/css/blaze-in-saddle.css",
+		"oAP": "/build/_assets/css/blaze-in-saddle.css",
 		"oF": 0,
 		"oS": 3,
-		"sct": 1
+		"sct": 0
 		},
 	"/_assets/img/20180513-equine-visitor.jpg": {
 		"ft": 16384,
 		"iS": 110920,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180513-equine-visitor.jpg",
+		"oAP": "/build/_assets/img/20180513-equine-visitor.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -56,7 +56,7 @@
 		"iS": 55967,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180516-blaze-in-saddle.jpg",
+		"oAP": "/build/_assets/img/20180516-blaze-in-saddle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -67,7 +67,7 @@
 		"iS": 23598,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180627-long-shot.jpg",
+		"oAP": "/build/_assets/img/20180627-long-shot.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -78,7 +78,7 @@
 		"iS": 33706,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180627-medium-shot.jpg",
+		"oAP": "/build/_assets/img/20180627-medium-shot.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -89,7 +89,7 @@
 		"iS": 48079,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180627-office.jpg",
+		"oAP": "/build/_assets/img/20180627-office.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -100,7 +100,7 @@
 		"iS": 52285,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180718-bathroom.jpg",
+		"oAP": "/build/_assets/img/20180718-bathroom.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -111,7 +111,7 @@
 		"iS": 53826,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180718-laundry.jpg",
+		"oAP": "/build/_assets/img/20180718-laundry.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -122,7 +122,7 @@
 		"iS": 60643,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180718-lobby.jpg",
+		"oAP": "/build/_assets/img/20180718-lobby.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -133,7 +133,7 @@
 		"iS": 60823,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180718-office.jpg",
+		"oAP": "/build/_assets/img/20180718-office.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -144,7 +144,7 @@
 		"iS": 79923,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20180718-shower.jpg",
+		"oAP": "/build/_assets/img/20180718-shower.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -155,7 +155,7 @@
 		"iS": 100417,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20200222-michael-castelli-and-michael-wolf-cu.jpg",
+		"oAP": "/build/_assets/img/20200222-michael-castelli-and-michael-wolf-cu.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -166,7 +166,7 @@
 		"iS": 81121,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/20200222-michael-castelli-and-michael-wolf.jpg",
+		"oAP": "/build/_assets/img/20200222-michael-castelli-and-michael-wolf.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -177,7 +177,7 @@
 		"iS": 79923,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/bathroom-1.jpg",
+		"oAP": "/build/_assets/img/bathroom-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -188,7 +188,7 @@
 		"iS": 97727,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/bathroom-2.jpg",
+		"oAP": "/build/_assets/img/bathroom-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -199,7 +199,7 @@
 		"iS": 110370,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/bathroom-3.jpg",
+		"oAP": "/build/_assets/img/bathroom-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -209,7 +209,7 @@
 		"ft": 32768,
 		"iS": 1702,
 		"oA": 0,
-		"oAP": "/_assets/img/bing-places-for-business.png",
+		"oAP": "/build/_assets/img/bing-places-for-business.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -221,7 +221,7 @@
 		"iS": 104845,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/blaze-in-saddle-3.jpg",
+		"oAP": "/build/_assets/img/blaze-in-saddle-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -232,7 +232,7 @@
 		"iS": 73295,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/blaze-in-saddle-4.jpg",
+		"oAP": "/build/_assets/img/blaze-in-saddle-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -243,7 +243,7 @@
 		"iS": 86454,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/blaze-in-saddle-5.jpg",
+		"oAP": "/build/_assets/img/blaze-in-saddle-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -254,7 +254,7 @@
 		"iS": 54257,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/blaze-in-saddle-6.jpg",
+		"oAP": "/build/_assets/img/blaze-in-saddle-6.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -265,7 +265,7 @@
 		"iS": 21923,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/blaze-in-saddle-7.jpg",
+		"oAP": "/build/_assets/img/blaze-in-saddle-7.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -276,7 +276,7 @@
 		"iS": 25298,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/Blaze-In-Saddle-RV-Park-logo.jpg",
+		"oAP": "/build/_assets/img/Blaze-In-Saddle-RV-Park-logo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -287,7 +287,7 @@
 		"iS": 65158,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/David-Sartorelli.jpg",
+		"oAP": "/build/_assets/img/David-Sartorelli.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -298,7 +298,7 @@
 		"iS": 1799,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/facebook.jpg",
+		"oAP": "/build/_assets/img/facebook.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -309,7 +309,7 @@
 		"iS": 110920,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/first-horse-visitor.jpg",
+		"oAP": "/build/_assets/img/first-horse-visitor.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -320,7 +320,7 @@
 		"iS": 3067,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/google-maps.jpg",
+		"oAP": "/build/_assets/img/google-maps.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -331,7 +331,7 @@
 		"iS": 75002,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/grand-opening-1.jpg",
+		"oAP": "/build/_assets/img/grand-opening-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -342,7 +342,7 @@
 		"iS": 100476,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/grand-opening-2.jpg",
+		"oAP": "/build/_assets/img/grand-opening-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -353,7 +353,7 @@
 		"iS": 76697,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/grand-opening-3.jpg",
+		"oAP": "/build/_assets/img/grand-opening-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -364,7 +364,7 @@
 		"iS": 114489,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/grand-opening-4.jpg",
+		"oAP": "/build/_assets/img/grand-opening-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -375,7 +375,7 @@
 		"iS": 41273,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/grand-opening-5.jpg",
+		"oAP": "/build/_assets/img/grand-opening-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -386,7 +386,7 @@
 		"iS": 114004,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/grand-opening-6.jpg",
+		"oAP": "/build/_assets/img/grand-opening-6.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -394,13 +394,13 @@
 		},
 	"/_assets/img/park-map-large.jpg": {
 		"ft": 16384,
-		"iS": 320880,
+		"iS": 281269,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/park-map-large.jpg",
+		"oAP": "/build/_assets/img/park-map-large.jpg",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 80
 		},
 	"/_assets/img/park-map.jpg": {
@@ -408,7 +408,7 @@
 		"iS": 74526,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/park-map.jpg",
+		"oAP": "/build/_assets/img/park-map.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -418,7 +418,7 @@
 		"ft": 32768,
 		"iS": 8323,
 		"oA": 0,
-		"oAP": "/_assets/img/passport-america.png",
+		"oAP": "/build/_assets/img/passport-america.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -430,7 +430,7 @@
 		"iS": 3606,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/reviews.jpg",
+		"oAP": "/build/_assets/img/reviews.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -441,7 +441,7 @@
 		"iS": 57884,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/route-66-sculpture.jpg",
+		"oAP": "/build/_assets/img/route-66-sculpture.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -452,7 +452,7 @@
 		"iS": 38081,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/street-view.jpg",
+		"oAP": "/build/_assets/img/street-view.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -463,7 +463,7 @@
 		"iS": 9029,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/sunset.jpg",
+		"oAP": "/build/_assets/img/sunset.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -474,7 +474,7 @@
 		"iS": 136828,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/tucumcari-mountain-marker.jpg",
+		"oAP": "/build/_assets/img/tucumcari-mountain-marker.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -485,7 +485,7 @@
 		"iS": 114423,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/tucumcari-mountain.jpg",
+		"oAP": "/build/_assets/img/tucumcari-mountain.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -496,7 +496,7 @@
 		"iS": 141604,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/tucumcari-points-of-interest.jpg",
+		"oAP": "/build/_assets/img/tucumcari-points-of-interest.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -507,7 +507,7 @@
 		"iS": 35101,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/tucumcari-police.jpg",
+		"oAP": "/build/_assets/img/tucumcari-police.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -518,7 +518,7 @@
 		"iS": 80179,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/tucumcari-tonight.jpg",
+		"oAP": "/build/_assets/img/tucumcari-tonight.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -529,7 +529,7 @@
 		"iS": 53207,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/us-route-66.jpg",
+		"oAP": "/build/_assets/img/us-route-66.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -540,7 +540,7 @@
 		"iS": 3158,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/yelp.jpg",
+		"oAP": "/build/_assets/img/yelp.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -552,7 +552,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/_assets/js/currentyear-min.js",
+		"oAP": "/build/_assets/js/currentyear-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -562,7 +562,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_assets/js/currentyear-min.js.map",
+		"oAP": "/build/_assets/js/currentyear-min.js.map",
 		"oF": 0
 		},
 	"/_assets/js/currentyear.js": {
@@ -571,7 +571,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/_assets/js/currentyear.js",
+		"oAP": "/build/_assets/js/currentyear.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -581,7 +581,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/_redirects",
+		"oAP": "/build/_redirects",
 		"oF": 0
 		},
 	"/about-us/index.html": {
@@ -589,14 +589,14 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/about-us/index.html",
+		"oAP": "/build/about-us/index.html",
 		"oF": 0
 		},
 	"/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 4093,
 		"oA": 0,
-		"oAP": "/android-chrome-192x192.png",
+		"oAP": "/build/android-chrome-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -607,7 +607,7 @@
 		"ft": 32768,
 		"iS": 10325,
 		"oA": 0,
-		"oAP": "/android-chrome-512x512.png",
+		"oAP": "/build/android-chrome-512x512.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -618,7 +618,7 @@
 		"ft": 32768,
 		"iS": 4013,
 		"oA": 0,
-		"oAP": "/apple-touch-icon.png",
+		"oAP": "/build/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -630,7 +630,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/BingSiteAuth.xml",
+		"oAP": "/build/BingSiteAuth.xml",
 		"oF": 0
 		},
 	"/browserconfig.xml": {
@@ -638,7 +638,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/browserconfig.xml",
+		"oAP": "/build/browserconfig.xml",
 		"oF": 0
 		},
 	"/cgi-bin/blaze-in-saddle_config.xml": {
@@ -646,7 +646,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/cgi-bin/blaze-in-saddle_config.xml",
+		"oAP": "/build/cgi-bin/blaze-in-saddle_config.xml",
 		"oF": 0
 		},
 	"/cgi-bin/sitemap_gen.py": {
@@ -654,7 +654,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/cgi-bin/sitemap_gen.py",
+		"oAP": "/build/cgi-bin/sitemap_gen.py",
 		"oF": 0
 		},
 	"/cgi-bin/sitemap_gen.sh": {
@@ -662,7 +662,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/cgi-bin/sitemap_gen.sh",
+		"oAP": "/build/cgi-bin/sitemap_gen.sh",
 		"oF": 0
 		},
 	"/contact-us/index.html": {
@@ -670,14 +670,14 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/contact-us/index.html",
+		"oAP": "/build/contact-us/index.html",
 		"oF": 0
 		},
 	"/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 452,
 		"oA": 0,
-		"oAP": "/favicon-16x16.png",
+		"oAP": "/build/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -688,7 +688,7 @@
 		"ft": 32768,
 		"iS": 886,
 		"oA": 0,
-		"oAP": "/favicon-32x32.png",
+		"oAP": "/build/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -700,7 +700,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/favicon.ico",
+		"oAP": "/build/favicon.ico",
 		"oF": 0
 		},
 	"/grand-opening/index.html": {
@@ -708,7 +708,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/grand-opening/index.html",
+		"oAP": "/build/grand-opening/index.html",
 		"oF": 0
 		},
 	"/humans.txt": {
@@ -716,7 +716,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/humans.txt",
+		"oAP": "/build/humans.txt",
 		"oF": 0
 		},
 	"/index.html": {
@@ -724,7 +724,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/index.html",
+		"oAP": "/build/index.html",
 		"oF": 0
 		},
 	"/map/index.html": {
@@ -732,14 +732,14 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/map/index.html",
+		"oAP": "/build/map/index.html",
 		"oF": 0
 		},
 	"/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 3248,
 		"oA": 0,
-		"oAP": "/mstile-150x150.png",
+		"oAP": "/build/mstile-150x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -749,7 +749,7 @@
 	"/package-lock.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "/package-lock.json",
+		"oAP": "/build/package-lock.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -759,7 +759,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/park-map/index.html",
+		"oAP": "/build/park-map/index.html",
 		"oF": 0
 		},
 	"/photos/index.html": {
@@ -767,7 +767,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/photos/index.html",
+		"oAP": "/build/photos/index.html",
 		"oF": 0
 		},
 	"/reviews/index.html": {
@@ -775,7 +775,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/reviews/index.html",
+		"oAP": "/build/reviews/index.html",
 		"oF": 0
 		},
 	"/robots.txt": {
@@ -783,7 +783,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/robots.txt",
+		"oAP": "/build/robots.txt",
 		"oF": 0
 		},
 	"/rules/index.html": {
@@ -791,14 +791,14 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/rules/index.html",
+		"oAP": "/build/rules/index.html",
 		"oF": 0
 		},
 	"/safari-pinned-tab.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 0,
-		"oAP": "/safari-pinned-tab.svg",
+		"oAP": "/build/safari-pinned-tab.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -809,7 +809,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/search-bing/index.html",
+		"oAP": "/build/search-bing/index.html",
 		"oF": 0
 		},
 	"/search-duckduckgo/index.html": {
@@ -817,7 +817,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/search-duckduckgo/index.html",
+		"oAP": "/build/search-duckduckgo/index.html",
 		"oF": 0
 		},
 	"/search-google/index.html": {
@@ -825,7 +825,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/search-google/index.html",
+		"oAP": "/build/search-google/index.html",
 		"oF": 0
 		},
 	"/site.webmanifest": {
@@ -833,7 +833,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site.webmanifest",
+		"oAP": "/build/site.webmanifest",
 		"oF": 0
 		},
 	"/sitemap.txt": {
@@ -841,7 +841,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/sitemap.txt",
+		"oAP": "/build/sitemap.txt",
 		"oF": 0
 		},
 	"/sitemap.xml": {
@@ -849,7 +849,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/sitemap.xml",
+		"oAP": "/build/sitemap.xml",
 		"oF": 0
 		}
 	},
@@ -858,9 +858,9 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 592700202.94733298,
-	"displayValue": "Blaze-In-Saddle RV Park",
-	"displayValueWasSetByUser": 1,
+	"creationDate": 613086268.30854595,
+	"displayValue": "blaze-in-saddle-build",
+	"displayValueWasSetByUser": 0,
 	"iconImageName": "/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
@@ -1156,7 +1156,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -1352,7 +1352,7 @@
 			},
 		"camelcase": {
 			"active": 0,
-			"optionString": "{'properties': 'always', 'ignoreDestructuring': false}"
+			"optionString": "{'properties': 'always', 'ignoreDestructuring': false, 'ignoreImports': false}"
 			},
 		"capitalized-comments": {
 			"active": 0,
@@ -1732,7 +1732,7 @@
 			},
 		"no-extra-parens": {
 			"active": 0,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false, 'enforceForSequenceExpressions': false, 'enforceForNewInMemberExpressions': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -1784,7 +1784,7 @@
 			},
 		"no-invalid-this": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'capIsConstructor': true}"
 			},
 		"no-irregular-whitespace": {
 			"active": 1,
@@ -2032,7 +2032,7 @@
 			},
 		"no-underscore-dangle": {
 			"active": 0,
-			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'allowAfterThisConstructor': false, 'enforceInMethodNames': false}"
 			},
 		"no-unexpected-multiline": {
 			"active": 1,
@@ -2056,7 +2056,7 @@
 			},
 		"no-unsafe-negation": {
 			"active": 1,
-			"optionString": ""
+			"optionString": "{'enforceForOrderingRelations': false}"
 			},
 		"no-unused-expressions": {
 			"active": 0,
@@ -2084,7 +2084,7 @@
 			},
 		"no-useless-computed-key": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'enforceForClassMembers': false}"
 			},
 		"no-useless-concat": {
 			"active": 0,
@@ -2328,7 +2328,7 @@
 			},
 		"use-isnan": {
 			"active": 1,
-			"optionString": ""
+			"optionString": "{'enforceForSwitchCase': false, 'enforceForIndexOf': false}"
 			},
 		"valid-jsdoc": {
 			"active": 0,
@@ -2360,7 +2360,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "https://blaze-in-saddle.vhx.cloud",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -2882,7 +2882,7 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
-		"compilerType": 1,
+		"compilerType": 0,
 		"createSourceMap": 1,
 		"decimalPrecision": 10,
 		"emitCharset": 1,

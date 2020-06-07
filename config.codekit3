@@ -641,30 +641,6 @@
 		"oAP": "/browserconfig.xml",
 		"oF": 0
 		},
-	"/cgi-bin/blaze-in-saddle_config.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/cgi-bin/blaze-in-saddle_config.xml",
-		"oF": 0
-		},
-	"/cgi-bin/sitemap_gen.py": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/cgi-bin/sitemap_gen.py",
-		"oF": 0
-		},
-	"/cgi-bin/sitemap_gen.sh": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/cgi-bin/sitemap_gen.sh",
-		"oF": 0
-		},
 	"/contact-us/index.html": {
 		"cB": 0,
 		"ft": 8192,

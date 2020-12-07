@@ -858,6 +858,22 @@
 		"oAP": "/photos/index.html",
 		"oF": 0
 		},
+	"/reviews/2018.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/reviews/2018.html",
+		"oF": 0
+		},
+	"/reviews/2019.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/reviews/2019.html",
+		"oF": 0
+		},
 	"/reviews/index.html": {
 		"cB": 0,
 		"ft": 8192,

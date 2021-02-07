@@ -586,6 +586,32 @@
 		"q": 80,
 		"rq": 75
 		},
+	"/_assets/img/campers_choice_2019.png": {
+		"ft": 32768,
+		"iS": 22213,
+		"oA": 0,
+		"oAP": "/_assets/img/campers_choice_2019.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 80,
+		"rq": 75
+		},
+	"/_assets/img/campers_choice_2020.png": {
+		"ft": 32768,
+		"iS": 21811,
+		"oA": 0,
+		"oAP": "/_assets/img/campers_choice_2020.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 80,
+		"rq": 75
+		},
 	"/_assets/img/facebook.jpg": {
 		"ft": 16384,
 		"iS": 1799,

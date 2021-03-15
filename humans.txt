@@ -6,7 +6,7 @@ Location: New Mexico
 
 Webmaster: Greg Raven
 Site: https://en.gravatar.com/gregraven
-Twitter: @gregraven
+Gab: https://gab.com/gregraven
 Keybase: https://keybase.io/gregraven
 Location: California
 
@@ -15,4 +15,4 @@ Language:  English
 Doctype: HTML5
 Standards: HTML5, CSS3, JavaScript
 Components: jQuery, Bootstrap, Font Awesome,
-Software: BBEdit, Pixelmator, CodeKit
+Software: BBEdit, Pixelmator Pro, CodeKit

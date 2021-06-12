@@ -20,17 +20,17 @@
 -->
 <header class="container"><div class="row"><div class="col-md-12"><h1>Blaze-in-Saddle RV Park &mdash; Contact us</h1></div><!-- /.col-md-12 --></div><!-- /.row --><div class="row"><div class="col-md-7"><p><b>2500 E. Rte. 66 Blvd.<br>Tucumcari, NM 88401-4328<br>Telephone: <a href="tel:575-815-4085">(575) 815-4085</a>‬‬<br>E-mail: <a href="mailto:blazeinsaddlervpark@plateautel.net">blazeinsaddlervpark@plateautel.net</a><br>Exit #335 off I-40<br>35.17172,-103.69365</b></p></div><!-- /.col-md-7 --><div class="col-md-5"><figure class="text-center"><img src="/_assets/img/Blaze-In-Saddle-RV-Park-logo.jpg" width="400" height="231" alt="Blaze-In-Saddle RV Park" class="img-thumbnail" /></figure></div><!-- /.col-md-5 --></div><!-- /.row --></header><article class="container"><div class="row"><div class="col-md-12"><hr>
 <!-- end bbinclude -->
-			<form id="contactus" method="POST" data-netlify="true">
+			<form name="contactus" method="POST" data-netlify="true">
 				<div class="form-group">
 					<label for="name">Your name</label>
-					<input type="text" class="form-control" id="name" placeholder="First and last">
+					<input type="text" class="form-control" name="name" placeholder="First and last">
 				</div>
 				<div class="form-group">
 					<label for="email">Your e-mail</label>
-					<input type="email" class="form-control" id="email" placeholder="So we can respond">
+					<input type="email" class="form-control" name="email" placeholder="So we can respond">
 				</div>
 				<div class="form-group">
-					<label for="message">Message</label> <textarea class="form-control" rows="7" id="message" placeholder="What can we do for you?"></textarea>
+					<label for="message">Message</label> <textarea class="form-control" rows="7" name="message" placeholder="What can we do for you?"></textarea>
 				</div>
 <!-- #bbpragma ignore_errors="on" -->
 				<div netlify-recaptcha></div>
